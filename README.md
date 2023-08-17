@@ -1,10 +1,8 @@
-# MMSegmentation教程
-
-两天搞定人工智能毕业设计之【语义分割】
+# 两天搞定人工智能毕业设计之【语义分割】
 
 语义分割是人工智能、深度学习和计算机视觉解决的核心任务之一。
 
-同济子豪兄将手把手带你跑通语义分割开发全流程：标注、训练、评估、预测、部署。
+同济子豪兄将手把手带你使用OpenMMLab开源语义分割算法库MMSegmentation，跑通语义分割开发全流程：标注、训练、评估、预测、部署。
 
 代码教程：https://github.com/TommyZihao/MMSegmentation_Tutorials
 
