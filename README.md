@@ -4,13 +4,13 @@
 
 同济子豪兄手把手带你使用OpenMMLab开源语义分割算法库MMSegmentation，跑通语义分割开发全流程：标注、训练、评估、预测、部署。
 
-视频合集：https://space.bilibili.com/1900783/channel/collectiondetail?sid=1631214
+视频教程合集：https://space.bilibili.com/1900783/channel/collectiondetail?sid=1631214
 
-代码教程：https://github.com/TommyZihao/MMSegmentation_Tutorials
+代码教程合集：https://github.com/TommyZihao/MMSegmentation_Tutorials
 
 推荐代码运行[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1) RTX A4000, CUDA 11.3, Python 3.7, Pytorch 1.10 
 
-## 目录
+## 视频教程目录
 
 短视频介绍：https://www.bilibili.com/video/BV1Wr4y1d7Tr
 
