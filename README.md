@@ -32,7 +32,7 @@
 
 训练语义分割深度学习算法：https://www.bilibili.com/video/BV1Ch4y1S7cX
 
-## 微信交流群：OpenMMLab/MMSegmentation/图像分割/语义分割/遥感/医疗/无人驾驶
+## 微信群：OpenMMLab/MMSeg/图像分割/语义分割/遥感/医疗/无人驾驶
 
 添加喵喵小助手微信号：OpenMMLabwx 回复 子豪兄西瓜语义分割，免费加入大佬交流微信群，有问必答
 
