@@ -14,9 +14,15 @@
 
 ## 视频教程目录
 
+- 基础理论
+
 短视频介绍：https://www.bilibili.com/video/BV1Wr4y1d7Tr
 
 语义分割与MMSegmentation：https://www.bilibili.com/video/BV1qN411z7hz
+
+语义分割算法演进：https://www.bilibili.com/video/BV1gV4y1m74P
+
+- 代码实战
 
 安装配置MMSegmentation+预训练语义分割推理预测：https://www.bilibili.com/video/BV1du4y1q7o5
 
