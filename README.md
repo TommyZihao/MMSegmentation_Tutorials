@@ -22,6 +22,8 @@
 
 语义分割算法演进：https://www.bilibili.com/video/BV1gV4y1m74P
 
+开源计算机视觉算法体系OpenMMLab介绍：https://www.bilibili.com/video/BV1js4y1i72P
+
 - 代码实战
 
 安装配置MMSegmentation+预训练语义分割推理预测：https://www.bilibili.com/video/BV1du4y1q7o5
@@ -31,6 +33,8 @@
 准备MMSeg语义分割config配置文件：https://www.bilibili.com/video/BV1w44y1F73N
 
 训练语义分割深度学习算法：https://www.bilibili.com/video/BV1Ch4y1S7cX
+
+对新的图像、视频、摄像头实时画面，运行语义分割预测
 
 ## 微信群：OpenMMLab/MMSeg/图像分割/语义分割/遥感/医疗/无人驾驶
 
