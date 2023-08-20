@@ -1,5 +1,7 @@
 # 两天搞定人工智能毕业设计之【语义分割】
 
+![mmseg教程](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20230130-mmseg/dataset/watermelon/meta/mmseg_outline2.jpg)
+
 语义分割和图像分割是人工智能、机器学习、深度学习和计算机视觉解决的核心任务之一。
 
 在医疗影像分析、遥感图像分析、工业缺陷检测、无人驾驶感知等领域广泛落地应用。
@@ -11,8 +13,6 @@
 代码教程合集：https://github.com/TommyZihao/MMSegmentation_Tutorials
 
 推荐代码运行[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1) RTX A4000, CUDA 11.3, Python 3.7, Pytorch 1.10 
-
-![mmseg教程](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20230130-mmseg/dataset/watermelon/meta/mmseg_outline.jpg)
 
 ## 视频教程目录
 
