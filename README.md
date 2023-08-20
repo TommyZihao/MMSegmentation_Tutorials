@@ -1,5 +1,3 @@
-# 两天搞定人工智能毕业设计之【语义分割】
-
 ![mmseg教程](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20230130-mmseg/dataset/watermelon/meta/mmseg_outline3.jpg)
 
 语义分割和图像分割是人工智能、机器学习、深度学习和计算机视觉解决的核心任务之一。
