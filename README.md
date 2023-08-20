@@ -20,9 +20,9 @@
 
 语义分割与MMSegmentation：https://www.bilibili.com/video/BV1qN411z7hz
 
-语义分割算法演进：https://www.bilibili.com/video/BV1gV4y1m74P
-
 开源计算机视觉算法体系OpenMMLab介绍：https://www.bilibili.com/video/BV1js4y1i72P
+
+语义分割算法演进：https://www.bilibili.com/video/BV1gV4y1m74P
 
 - 代码实战
 
