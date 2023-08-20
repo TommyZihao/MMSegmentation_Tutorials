@@ -12,6 +12,8 @@
 
 推荐代码运行[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1) RTX A4000, CUDA 11.3, Python 3.7, Pytorch 1.10 
 
+![mmseg教程](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20230130-mmseg/dataset/watermelon/meta/mmseg_outline.jpg)
+
 ## 视频教程目录
 
 - 基础理论
