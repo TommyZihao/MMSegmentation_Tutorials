@@ -26,6 +26,8 @@
 
 语义分割算法演进：https://www.bilibili.com/video/BV1gV4y1m74P
 
+标注自己的语义分割数据集
+
 - 代码实战
 
 安装配置MMSegmentation+预训练语义分割推理预测：https://www.bilibili.com/video/BV1du4y1q7o5
@@ -38,9 +40,9 @@
 
 用训练好的语义分割算法模型，对新图像、视频、摄像头实时画面，运行语义分割预测：https://www.bilibili.com/video/BV1vp4y1K7Tj
 
-MMDeploy模型转换与终端部署
+MMDeploy模型转换与终端部署：https://www.bilibili.com/video/BV1Ep4y1n7wo
 
-ONNX Runtime语义分割模型部署
+ONNX Runtime语义分割模型部署：https://www.bilibili.com/video/BV1aN411B7Dq
 
 ## 微信群：OpenMMLab/MMSeg/图像分割/语义分割/遥感/医疗/无人驾驶
 
