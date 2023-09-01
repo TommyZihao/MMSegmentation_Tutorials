@@ -26,7 +26,7 @@
 
 语义分割算法演进：https://www.bilibili.com/video/BV1gV4y1m74P
 
-标注自己的语义分割数据集
+标注自己的语义分割数据集：https://www.bilibili.com/video/BV1uu4y1Q7Rt
 
 - 代码实战
 
