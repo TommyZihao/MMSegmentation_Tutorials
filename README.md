@@ -40,9 +40,13 @@
 
 用训练好的语义分割算法模型，对新图像、视频、摄像头实时画面，运行语义分割预测：https://www.bilibili.com/video/BV1vp4y1K7Tj
 
+- 模型部署
+
 MMDeploy模型转换与终端部署：https://www.bilibili.com/video/BV1Ep4y1n7wo
 
 ONNX Runtime语义分割模型部署：https://www.bilibili.com/video/BV1aN411B7Dq
+
+AidLux智能手机语义分割部署
 
 ## 微信群：OpenMMLab/MMSeg/图像分割/语义分割/遥感/医疗/无人驾驶
 
