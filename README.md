@@ -26,6 +26,8 @@
 
 语义分割算法演进：https://www.bilibili.com/video/BV1gV4y1m74P
 
+Kaggle语义分割竞赛清单：https://www.bilibili.com/video/BV1Fu411w7Rx
+
 标注自己的语义分割数据集：https://www.bilibili.com/video/BV1uu4y1Q7Rt
 
 - 代码实战
@@ -46,7 +48,7 @@ MMDeploy模型转换与终端部署：https://www.bilibili.com/video/BV1Ep4y1n7w
 
 ONNX Runtime语义分割模型部署：https://www.bilibili.com/video/BV1aN411B7Dq
 
-AidLux智能手机语义分割部署
+AidLux智能手机语义分割部署：https://www.bilibili.com/video/BV1k8411y7c2
 
 ## 微信群：OpenMMLab/MMSeg/图像分割/语义分割/遥感/医疗/无人驾驶
 
